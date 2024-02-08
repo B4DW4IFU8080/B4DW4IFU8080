@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on, reversing this issue, and doing whatever it takes.
 - 📫 How to reach me. You can't, due to everything being redirected.
 - 😄 Pronouns: A dude, Just me, No one else.
-- ⚡ Fun fact: I am really beyond depressed and hope that I will one-day be able to practice coding.
-
+- ⚡ Fun fact: I am really beyond depressed, and hope one-day, be able to practice coding freely.
 <!---
 B4DW4IFU8080/B4DW4IFU8080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
